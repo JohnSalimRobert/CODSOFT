@@ -2,7 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 191A19 */
 
 body {
-  background-color: #191A19;
+  background-attachment: fixed;
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./assests/background-img.png');
+  background-position: right center;
 }
