@@ -18,6 +18,10 @@ module.exports = {
           },
         },
       },
+      fontFamily: {
+        'VT323': ['VT323', 'monospace'],
+        'tilt': ['Tilt Prism', 'sans-serif']
+      }
     },
   },
   plugins: [],
